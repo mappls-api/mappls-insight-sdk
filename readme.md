@@ -63,7 +63,7 @@ Access Tokens can be generated using Token Generation API.
 To know more on how to create your access tokens, please use our authorization API URL. More details available [here](https://developer.mappls.com/mapping/tokenGeneration).<br>
 The access token is valid by default for 24 hours from the time of generation. This can be configured by you in the API console.
 
-### Sample code for Mappls pin
+### Sample code for Insight Dashboard
 ```html
 <!DOCTYPE html>
 <html>
