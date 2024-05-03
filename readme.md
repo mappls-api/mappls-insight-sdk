@@ -52,9 +52,16 @@ After creating widgets, users can add, resize, and arrange them on the dashboard
 Easily preview and share the dashboards using a URL, which can be embedded into your existing applications. 
 
 ### Demo Link
-[]()
+![image]()
 
-To learn more on how to create your authorization tokens, please use our authorization token URL. More details available [here](https://developer.mappls.com/mapping/tokenGeneration/).
+## Getting Access
+
+Before using our SDKs or API in your solution, please ensure that the related access is enabled in the [Mappls API Console](https://apis.mappls.com/console). 
+
+Mappls SDKs & APIs follow OAuth2 based security.
+Access Tokens can be generated using Token Generation API.
+To know more on how to create your access tokens, please use our authorization API URL. More details available [here](https://developer.mappls.com/mapping/tokenGeneration).<br>
+The access token is valid by default for 24 hours from the time of generation. This can be configured by you in the API console.
 
 ### Sample code for Mappls pin
 ```html
