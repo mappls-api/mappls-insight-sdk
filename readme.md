@@ -73,7 +73,7 @@ The access token is valid by default for 24 hours from the time of generation. T
     <h2>Insight Iframes</h2>
     <p>You can use the iframe to embed your created dashboards:</p>
 
-    <iframe src="https://insight.mappls.com/insight-public/app/dashboard/9fa956dd57595ec347a7661c797d2b1a" height="1000"
+    <iframe src="https://insight.mappls.com/insight-public/app/dashboard/1acd40ddac8028f81c9fb4f2dfb3976" height="1000"
         width="1000" title="Iframe Example"></iframe>
 
 </body>
@@ -82,7 +82,7 @@ The access token is valid by default for 24 hours from the time of generation. T
 ```
 
 #### Sample Output
-![]()
+![](/assets/Sample-Output.gif)
 
 
 
