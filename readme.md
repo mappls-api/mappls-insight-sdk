@@ -22,32 +22,32 @@ Access Tokens can be generated using Token Generation API.
 To know more on how to create your access tokens, please use our authorization API URL. More details available [here](https://developer.mappls.com/mapping/tokenGeneration).<br>
 The access token is valid by default for 24 hours from the time of generation. This can be configured by you in the API console.
 
-![](/assets/)
+![](/assets/Location%20Based%20Insights.gif)
 
 
 ## How to create Embeddable Dashboards
 
 ### Step 1: Connect to the Data source
 
-![](/assets/)
+![](/assets/Connect%20to%20a%20Datasource.gif)
 
 In Insight, users can seamlessly access diverse data sources, ranging from APIs and PostgreSQL databases to mGlS and Excel/CSV files. This extensive array of options empowers users to integrate and analyze data from various sources within a unified platform, facilitating comprehensive insights and informed decision-making. 
 
 ### Step 2: Create Reusable Widgets
 
-![](/assets/)
+![](/assets/Create%20Reusable%20Widgets.gif)
 
 Users can create reusable widgets in Insight, streamlining data visualization and dashboard customization. Easily configure and save widgets for future use, ensuring consistency across multiple dashboards. Select data sources, choose from a wide range of widgets, and quickly build insightful displays tailored to specific needs. 
 
 ### Step 3: Collate Widgets and create Shareable Dashboards
 
-![](/assets/)
+![](/assets/Collate%20widget%20into%20sharable%20dashboard.gif)
 
 After creating widgets, users can add, resize, and arrange them on the dashboard as desired. They can configure filters and control fields to refine the displayed data. Dashboards can also be set to refresh at specified intervals to stay updated with data changes.
 
 ### Step 4: Share the dashboard by creating an embeddable link
 
-![](/assets/)
+![](/assets/Sharable%20Link%20of%20Dashboard-%20screen.gif)
 
 Easily preview and share the dashboards using a URL, which can be embedded into your existing applications. 
 
