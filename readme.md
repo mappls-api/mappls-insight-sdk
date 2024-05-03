@@ -52,7 +52,7 @@ After creating widgets, users can add, resize, and arrange them on the dashboard
 Easily preview and share the dashboards using a URL, which can be embedded into your existing applications. 
 
 ### Demo Link
-![image]()
+[https://insight.mappls.com/insight-public/app/dashboard/1acd40ddac8028f81c9fb4f2dfb3976](https://insight.mappls.com/insight-public/app/dashboard/1acd40ddac8028f81c9fb4f2dfb3976)
 
 ## Getting Access
 
